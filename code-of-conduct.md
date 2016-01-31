@@ -9,6 +9,7 @@ Like any organization, Mchost will have a code of conduct for our staff members 
 
 ***
 **B. Accountability**
+
 As Mchost begins to emerge as an organization we want to stay organized. Accountability of staff must be implemented. This means that you must take full responsibility for your actions.
 
 1. Any actions that a staff member makes must be justified, mature and responsible.
