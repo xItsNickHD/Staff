@@ -30,7 +30,7 @@
 5. Ban evasion is not permitted and will result in a permanent ban for all alternate accounts associated with the evading player. The alternate accounts will not be unbanned once the original ban expired, and the original ban may be extended up to thrice the length of the original ban. (e.g. 1 week ban becomes up to a 3 week ban).
 6. Persistent ban evasion will result in a permanent ban for all accounts.
 7. Players violating any forum rules may be banned from posting to the forums.
-8. Players violating any Mumble rules may be kicked or banned from the Mumble server.
-9. Players violating the rules on any McHost service, including the game servers, the forums, and Mumble, may be banned from any or all of the services.
+8. Players violating any Teamspeak rules may be kicked or banned from the Teamspeak server.
+9. Players violating the rules on any McHost service, including the game servers and Teamspeak, may be banned from any or all of the services.
 10. All infractions may be appealed by filing an appeal.
 11. Any player that knowingly gives false info in his or her appeal may be permanently banned.
