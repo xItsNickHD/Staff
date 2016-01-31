@@ -29,6 +29,6 @@ As McHost begins to emerge as an organization we want to stay organized. Account
 ***
 Any questions, concerns or comments can be sent to lokeys@mchost.co. Anything discussed will be confidential.
 If a violation is being reported, please give the section letter and the rule number.
-Example: Billyminecrafter is violating B.5. An accurate and truthful explanation is required.
+Example: "Billyminecrafter is violating section B.5". An accurate and truthful explanation is required.
 
 
