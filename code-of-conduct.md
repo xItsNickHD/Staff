@@ -29,9 +29,7 @@ As Mchost begins to emerge as an organization we want to stay organized. Account
 
 ***
 Any questions, concerns or comments can be sent to lokeys@mchost.co. Anything discussed will be confidential.
-
 If a violation is being reported, please give the section letter and the rule number.
-
 Example: Billyminecrafter is violating B5. An accurate and truthful explanation is required as well.
 
 
