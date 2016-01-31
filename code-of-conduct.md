@@ -1,12 +1,14 @@
 # Staff Code of Conduct
 ***
 Like any organization, Mchost will have a code of conduct for our staff members to follow. We expect that the below rules will be followed by every staff member. Any violated rules can be reported by staff members and players alike. Mchost is continuing to grow and we want everything to run as smoothly as possible. grow.
+
 ***
 **A. Customer Service**
 
 1. Players come first! You must respect and provide equal care/support to every player. Past wrongdoings or issues will not affect how you interact with players. Favoritism and one-sidedness will not be tolerated.
 
 2. Do not turn down any questions. It is your responsibility to make sure questions are answered. If you're incapable of answering a question, find someone who can. Such as an Admin or Moderator.
+3. 
 ***
 **B. Accountability**
 
@@ -27,6 +29,7 @@ As Mchost begins to emerge as an organization we want to stay organized. Account
 7. You must ensure the security of your account. You must never allow any other person access into your account. 
 
 8. If you're expected to be inactive for awhile. Please contact an Admin and explain why.
+9. 
 ***
 **C. Professionalism**
 
