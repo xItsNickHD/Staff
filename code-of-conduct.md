@@ -2,6 +2,7 @@
 ***
 Like any organization, Mchost will have a code of conduct for our staff members to follow. We expect that the below rules will be followed by every staff member. Any violated rules can be reported by staff members and players alike. Mchost is continuing to grow and we want everything to run as smoothly as possible.
 
+***
 **A. Customer Service**
 
 1. Players come first! You must respect and provide equal care/support to every player. Past wrongdoings or issues will not affect how you interact with players. Favoritism and one-sidedness will not be tolerated.
