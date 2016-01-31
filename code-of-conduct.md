@@ -1,5 +1,4 @@
 # Staff Code of Conduct
-***
 Like any organization, Mchost will have a code of conduct for our staff members to follow. We expect that the below rules will be followed by every staff member. Any violated rules can be reported by staff members and players alike. Mchost is continuing to grow and we want everything to run as smoothly as possible.
 
 ***
