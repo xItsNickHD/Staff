@@ -4,7 +4,7 @@
 
 1. Maintain a pleasant, casual atmosphere. Be respectful and use common sense. Excessive swearing, rudeness and harassment is not tolerated.
 2. Try to maintain proper spelling and grammar.
-3. Do not spam.
+3. Do not spam. This includes repeatedly advertising your server. 
 4. Do not link to any of the following: Objectionable material, which includes but is not limited to pornography, "shock sites", viruses, phishing sites and hate groups.
 5. Other websites or servers in a manner that constitutes advertising.
 6. Personal identifying information of other users.
