@@ -21,11 +21,9 @@ Notes:
 ***
 **Teamspeak Violations:**
 
-All violations in teamspeak must be **warned**. This includes chat spam, poke spam, intense profanity, inappropriate avatars,etc.
-
-If a player continues after being warned, they will be banned for **1 day**.
-
-Deal out any future chat violations with a **1 day ban**.
+1. All violations in teamspeak must be **warned**. This includes chat spam, poke spam, intense profanity, inappropriate avatars,etc.
+2. If a player continues after being warned, they will be banned for **1 day**.
+3. Deal out any future chat violations with a **1 day ban**.
 
 Exceptions:
 - Impersonating either a staff member or a player results in an instant **7 day ban**.
@@ -38,11 +36,9 @@ Notes:
 
 **Hacking**(Hub)
 
-Hacking in hub is very obscure and is not likely to happen since everyone is able to fly. 
-
-If a player is using obvious hacks such as derp or timer(speed) give them a **warning**.
-
-Should they continue, deal out a **1 day ban**.
+1. Hacking in hub is very obscure and is not likely to happen since everyone is able to fly. 
+2. If a player is using obvious hacks such as derp or timer(speed) give them a **warning**.
+3. Should they continue, deal out a **1 day ban**.
 
 Notes:
 - Hacking punishments must be justified.
