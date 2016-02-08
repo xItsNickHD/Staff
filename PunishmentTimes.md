@@ -34,7 +34,7 @@ Notes:
 
 ***
 
-**Hacking**(Hub)
+**Hacking**
 
 1. Hacking in hub is very obscure and is not likely to happen since everyone is able to fly. 
 2. If a player is using obvious hacks such as derp or timer(speed) give them a **warning**.
