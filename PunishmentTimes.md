@@ -1,6 +1,6 @@
 # Punishment Times
 ***
-**Chat Violations:**
+##Chat Violations:
 
 1. All chat violations must first be **warned**. (This includes spamming, swearing, profanity, staff/player impersonation.)
 2. Should a player continue after being warned, they will be muted for **10 minutes**.
@@ -19,7 +19,7 @@ Notes:
 - All chat punishments must be justified.
 
 ***
-**Teamspeak Violations:**
+##Teamspeak Violations:
 
 1. All violations in teamspeak must be **warned**. This includes chat spam, poke spam, intense profanity, inappropriate avatars,etc.
 2. If a player continues after being warned, they will be banned for **1 day**.
@@ -34,7 +34,7 @@ Notes:
 
 ***
 
-**Hacking**
+##Hacking
 
 1. Hacking in hub is very obscure and is not likely to happen since everyone is able to fly. 
 2. If a player is using obvious hacks such as derp or timer(speed) give them a **warning**.
