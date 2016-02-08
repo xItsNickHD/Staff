@@ -14,7 +14,7 @@ If they continue for a 3rd time, they will be muted for **1 hour**.
 Deal out any future chat violations with a **1 day mute**.
 
 Exceptions:
-- Advertising external servers or any websites results in an instant **30 day ban**.
+- Advertising external servers results in an instant **30 day ban**.
 - Releasing private information of others results in an instant **7 day ban**.
 - Spam botting for the purpose of chat obstruction and like farming results in an instant **permanent IP ban**.
 
