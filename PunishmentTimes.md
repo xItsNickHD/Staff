@@ -1,5 +1,6 @@
 # Punishment Times
-***
+Our staff policy for issuing punishments. 
+
 ##Chat Violations:
 
 1. All chat violations must first be **warned**. (This includes spamming, swearing, profanity, staff/player impersonation.)
@@ -18,7 +19,6 @@ Notes:
 - Advertising youtube channels, playlists, videos, etc are allowed so long as it's not spammed.
 - All chat punishments must be justified.
 
-***
 ##Teamspeak Violations:
 
 1. All violations in teamspeak must be **warned**. This includes chat spam, poke spam, intense profanity, inappropriate avatars,etc.
@@ -32,8 +32,6 @@ Exceptions:
 Notes:
 - All Teamspeak punishments must be justified.
 
-***
-
 ##Hacking
 
 1. Hacking in hub is very obscure and is not likely to happen since everyone is able to fly. 
@@ -42,5 +40,3 @@ Notes:
 
 Notes:
 - Hacking punishments must be justified.
-
-***
