@@ -1,8 +1,6 @@
 # Punishment Times
 ***
-**Chat Violations:**(Hub)
-
-
+**Chat Violations:**
 
 1. All chat violations must first be **warned**. (This includes spamming, swearing, profanity, staff/player impersonation.)
 2. Should a player continue after being warned, they will be muted for **10 minutes**.
@@ -13,6 +11,7 @@ Exceptions:
 - Advertising external servers results in an instant **30 day ban**.
 - Releasing private information of others results in an instant **7 day ban**.
 - Spam botting for the purpose of chat obstruction and like farming results in an instant **permanent IP ban**.
+
 Notes: 
 - Advertising an Mchost server is allowed every 2 minutes.
 - Chat punishments only apply in the hub.
