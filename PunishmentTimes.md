@@ -47,13 +47,17 @@ Notes:
 
 (This includes Team Spleefing, Spawn blocking, destroying bridges/buildings, etc)
 1. First offense must be **warned** in chat.
+
 2. If they continue after being warned, deal a **1 day ban**.
+
 3. Continue dealing out **1 day bans** if the player continues after returning.
 
 - Hacking
 
 (This includes Kill-Aura, Flying, Anit-Knockback, Fast Bow, Fast Load, Spider, Jesus, etc)
+
 1. Using any type of hack in warzone will result in an instant **2 week ban**.
+
 2. Continue to deal out **2 week bans** if the player continues after returning.
 
 Notes: 
