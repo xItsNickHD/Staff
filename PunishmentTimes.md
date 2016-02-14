@@ -41,7 +41,7 @@ Notes:
 Notes:
 - Hacking punishments must be justified.
 
-##Warzone: (
+##Warzone: 
 
 Team Griefing - 
 (This includes Team Spleefing, Spawn blocking, destroying bridges/buildings, etc)
