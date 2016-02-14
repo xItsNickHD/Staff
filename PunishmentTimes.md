@@ -1,7 +1,7 @@
 # Punishment Times
 Our staff policy for issuing punishments. 
 
-##Chat Violations:
+##Chat Violations: (Hub and Warzone)
 
 1. All chat violations must first be **warned**. (This includes spamming, swearing, profanity, staff/player impersonation.)
 2. Should a player continue after being warned, they will be muted for **10 minutes**.
@@ -19,7 +19,7 @@ Notes:
 - Advertising youtube channels, playlists, videos, etc are allowed so long as it's not spammed.
 - All chat punishments must be justified.
 
-##Teamspeak Violations:
+##Teamspeak Violations: (Teamspeak)
 
 1. All violations in teamspeak must be **warned**. This includes chat spam, poke spam, intense profanity, inappropriate avatars,etc.
 2. If a player continues after being warned, they will be banned for **1 day**.
@@ -32,7 +32,7 @@ Exceptions:
 Notes:
 - All Teamspeak punishments must be justified.
 
-##Hacking
+##Hacking: (Hub)
 
 1. Hacking in hub is very obscure and is not likely to happen since everyone is able to fly. 
 2. If a player is using obvious hacks such as derp or timer(speed) give them a **warning**.
@@ -40,3 +40,18 @@ Notes:
 
 Notes:
 - Hacking punishments must be justified.
+
+##Warzone:
+
+Team Griefing
+(This includes Team Spleefing, Spawn blocking, destroying bridges/buildings, etc)
+1. First offense must be *warned** in chat.
+2. If they continue after being warned, deal a **1 day ban**.
+3. Continue dealing out **1 day bans** if the player continues after returning.
+
+Hacking
+(This includes Kill-Aura, Flying, Anit-Knockback, Fast Bow, Fast Load, Spider, Jesus, etc)
+1. Using any type of hack in warzone will result in an instant **2 week ban**.
+2. Continue to deal out **2 week bans** if the player continues after returning.
+
+Notes: Chat violations will be dealt the same as in hub.
