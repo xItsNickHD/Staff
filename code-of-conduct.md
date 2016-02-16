@@ -13,13 +13,12 @@ Like any organization, McHost will have a code of conduct for our staff members 
 As McHost begins to emerge as an organization we want to stay organized. Accountability of staff must be implemented. This means that you must take full responsibility for your actions.
 
 1. Any actions that a staff member makes must be justified, mature and responsible.
-2. All bans must be recorded in the 'mod' channel and must have a valid reason. Any bans not recorded will be found out.
-3. Any issues that you may have towards another staff member or player must be reported to Lokeys. Do not attempt to make the situation worse. Backstabbing will not be tolerated. 
-4. Any information regarding private issues must be kept strictly confidential. 
-5. Threats will not be tolerated. Any McHost player or staff member is allowed to show concern and speak with an Admin. They will not be intimidated or threatened by other staff or players. 
-6. A staff member who is found to have cheated on other public servers may be dealt with as if they had cheated on McHost.
-7. You must ensure the security of your account. You must never allow any other person access into your account. 
-8. If you're expected to be inactive for awhile. Please contact an Admin and explain why.
+2. Any issues that you may have towards another staff member or player must be reported to Lokeys. Do not attempt to make the situation worse. Backstabbing will not be tolerated. 
+3. Any information regarding private issues must be kept strictly confidential. 
+4. Threats will not be tolerated. Any McHost player or staff member is allowed to show concern and speak with an Admin. They will not be intimidated or threatened by other staff or players. 
+5. A staff member who is found to have cheated on other public servers may be dealt with as if they had cheated on McHost.
+6. You must ensure the security of your account. You must never allow any other person access into your account. 
+7. If you're expected to be inactive for awhile. Please contact an Admin and explain why.
 
 ***
 **C. Professionalism**
