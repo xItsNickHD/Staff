@@ -58,3 +58,8 @@ Hacking -
 
 Notes: 
 - Chat violations will be dealt the same as in hub.
+
+
+##Bypassing:
+
+1. Bypassing network bans or mutes will result in a **permanent ban** and an **IP ban**.
