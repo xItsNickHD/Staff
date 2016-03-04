@@ -4,15 +4,16 @@
 
 1. Maintain a pleasant, casual atmosphere. Be respectful and use common sense. Excessive swearing, rudeness and harassment is not tolerated.
 2. Try to maintain proper spelling and grammar.
-3. Do not spam. This includes repeatedly advertising your server. 
-4. Do not link to any of the following: Objectionable material, which includes but is not limited to pornography, "shock sites", viruses, phishing sites and hate groups.
-5. Other websites or servers in a manner that constitutes advertising.
-6. Personal identifying information of other users.
-7. Do not encourage or partake in rule breaking on McHost services.
-8. Do not impersonate any member of the McHost staff, or claim to be a staff member.
+3. Use only ASCII characters in chat (no crazy unicodes).
+4. Do not spam. This includes repeatedly advertising your server. 
+5. Do not link to any of the following: Objectionable material, which includes but is not limited to pornography, "shock sites", viruses, phishing sites and hate groups.
+6. Other websites or servers in a manner that constitutes advertising.
+7. Personal identifying information of other users.
+8. Do not encourage or partake in rule breaking on McHost services.
+9. Do not impersonate any member of the McHost staff, or claim to be a staff member.
 10. Do not use spam bots in hub to obstruct chat or vote farm. 
 11. Report issues or bugs of McHost services to either the forums or to lokeys@mchost.co; exploitation of bugs for any reason other than to demonstrate at the request of a staff member will result in a punishment.
-12. Follow any directions given by a McHost staff member. If you believe a staff member has directed you wrongly, please email lokeys@mchost.co.
+12. Follow any directions given by a McHost staff member. If you believe a staff member has directed you wrongly, please email luke@mchost.co.
 
 ***
 **B. Teamspeak**
