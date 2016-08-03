@@ -34,7 +34,7 @@ Notes:
 
 ##Hacking: (Hub)
 
-1. Hacking in hub is very obscure and is not likely to happen since everyone is able to fly. 
+1. Hacking in hub is very obscure and is not likely to happen since donators are able to fly. 
 2. If a player is using obvious hacks such as derp or timer(speed) give them a **warning**.
 3. Should they continue, deal out a **1 day ban**.
 
